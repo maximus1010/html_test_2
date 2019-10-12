@@ -1,0 +1,108 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    position: relative;
+}
+.wrapper {
+    max-width: 1170px;
+    margin: 0px auto;
+    position: relative;
+    height: auto;
+}
+.data_wrapper{
+	position: relative;
+	display: flex;
+	margin-top: 25px;
+}
+.name_data{
+	padding-right: 100px;
+}
+.name_namber{
+	padding-right: 100px;
+}
+.name_mail{
+	padding-right: 100px;
+}
+.name_skype{
+	padding-right: 100px;
+}
+
+.name_work{
+	padding-right: 100px;
+}
+.name_frelance{
+	padding-right: 100px;
+}
+.data_wrapper_3{
+	position: relative;
+	margin-top: 25px;
+}
+.name_frelance{
+	display: block;
+	position: relative;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    position: relative;
+}
+.wrapper {
+    max-width: 1170px;
+    margin: 0px auto;
+    position: relative;
+    height: auto;
+}
+.name{
+	padding-top: 20px;
+}
+.data_wrapper{
+	position: relative;
+	display: flex;
+	margin-top: 25px;
+	margin-bottom: 35px;
+}
+.name_data{
+	padding-right: 100px;
+}
+.name_namber{
+	padding-right: 54px;
+}
+.name_mail{
+	padding-right: 149px;
+}
+.name_skype{
+	padding-right: 147px;
+}
+.Junior{
+	text-align: center;
+}
+.name_work{
+	padding-right: 100px;
+}
+.name_frelance{
+	padding-right: 100px;
+}
+.data_wrapper_3{
+	position: relative;
+	margin-top: 25px;
+}
+.name_frelance{
+	display: block;
+	position: relative;
+}
+.table1{
+	width: 758px;
+	margin: 0px auto;
+	font-size: 19px;
+	padding: 0px;
+}
+.table1 tr td{
+	width: 82px;
+	border: 1px solid #000;
+	margin: 0px;
+	padding: 12px;
+}
